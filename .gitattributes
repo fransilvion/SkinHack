@@ -1,0 +1,2 @@
+data1/* filter=lfs diff=lfs merge=lfs -text
+data2/* filter=lfs diff=lfs merge=lfs -text
